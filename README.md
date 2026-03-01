@@ -1,4 +1,4 @@
-# ULI - Modern Italian Furniture Website
+# ULI - Modern Indian Furniture Website
 
 A Next.js furniture e-commerce website with smooth animations powered by Framer Motion.
 
